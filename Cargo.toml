@@ -1,0 +1,10 @@
+[package]
+name = "temperature-converter"
+version = "0.1.0"
+authors = "asashakira"
+edition = "2021"
+description = "Temperature Converter written in Rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
